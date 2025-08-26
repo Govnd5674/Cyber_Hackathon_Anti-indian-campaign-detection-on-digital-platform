@@ -1,0 +1,7 @@
+{
+  "bearer_token": "AAAAAAAAAAAAAAAAAAAAALsQ3wEAAAAAsuZhWqDifoQuHIlCeKngcjV9ujM%3DJWcZfp75b3mWFRYdpGbEsNeOjA7tkixva2buql6TEUiyzPxWdn",
+  "query": "#SaveTheEarth lang:en -is:retweet",
+  "minutes": 180,
+  "max_results": 200,
+  "similarity_threshold": 0.8
+}
